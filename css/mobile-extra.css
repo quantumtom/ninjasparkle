@@ -1,0 +1,124 @@
+video {
+	text-align:center;
+}
+
+.video-container {
+	text-align:center;
+}
+
+p {
+	font-size:20px;
+	line-height:200%;
+}
+
+/* Ball Game */
+.ball-demo {
+	font-size:20pt;
+	line-height:200%;
+}
+
+.upgrade-message {
+	display: none;	
+}
+
+#ball {
+	width: 20px;
+	height: 20px;
+	border-radius: 10px;
+	-webkit-radius: 10px;
+	background-color: green;
+	position:absolute;
+	top: 0px;
+	left: 0px;
+}
+
+/* Ball Game */
+
+/* About Page */
+.about-image {
+	padding:10px;
+}
+
+.jqm-logo {
+	background-color:#000;
+	margin:10px;
+	clear:both;
+}
+
+.right {
+	float:right;
+}
+
+.left  {
+	float:left;
+}
+/* About Page */
+
+
+/** Twitter TWTR Widget **/
+.twtr-ft {
+	display:none;
+}
+
+.twtr-doc.twtr-fullscreen {
+	font-size:14px !important;
+}
+/** Twitter TWTR Widget **/
+
+/** Custom icons **/
+
+.nav-custom-icons .ui-btn .ui-btn-inner {
+	padding-top: 40px !important;
+}
+
+.nav-custom-icons .ui-btn .ui-icon {
+	width: 30px!important;
+	height: 30px!important;
+	margin-left: -15px !important;
+	box-shadow: none!important;
+	-moz-box-shadow: none!important;
+	-webkit-box-shadow: none!important;
+	-webkit-border-radius: none !important;
+	border-radius: none !important;
+}
+
+#tweets-link .ui-icon {
+	background:url(http://s3.socktan.com/media/img/icons/23-bird.png) 50% 50% no-repeat;
+	background-size: 25px 24px;
+}
+/*
+#about .ui-icon {
+	background:url(http://s3.socktan.com/media/img/icons/134-viking.png) 50% 50% no-repeat;
+	background-size:26px 17px;
+}
+*/
+#signup-link .ui-icon {
+	background:url(http://s3.socktan.com/media/img/icons/22-skull-n-bones.png) 50% 50% no-repeat;
+	background-size: 30px 32px;
+}
+#video-link .ui-icon {
+	background:url(http://s3.socktan.com/media/img/icons/70-tv.png) 50% 50% no-repeat;
+	background-size: 24px 24px;
+}
+#photo-link .ui-icon {
+	background:url(http://s3.socktan.com/media/img/icons/43-film-roll.png) 50% 50% no-repeat;
+	background-size:22px 26px;
+}
+#start-link .ui-icon {
+	background:url(http://s3.socktan.com/media/img/icons/132-ghost.png) 50% 50% no-repeat;
+	background-size:20px 26px;
+}
+#gallery-link .ui-icon {
+	background:url(http://s3.socktan.com/media/img/icons/132-ghost.png) 50% 50% no-repeat;
+	background-size:20px 26px;
+}
+#focus {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.contact-info p {
+	line-height:70%;
+	font-size:70%;
+}
